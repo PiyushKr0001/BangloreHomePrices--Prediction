@@ -49,6 +49,7 @@ Python 3.x
 Git
 
 Demo
+    
 
 Screenshot or GIF showcasing the web interface and prediction feature.
 
