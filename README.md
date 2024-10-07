@@ -1,7 +1,4 @@
-
-Sure! Here's the modified README.md without the Project Structure section:
-
-Bangalore Home Price Prediction
+                                                                Bangalore Home Price Prediction
 A comprehensive project to predict Bangalore home prices using machine learning. The project involves building a linear regression model with Scikit-learn, deploying it through a Flask server, and creating a user-friendly web interface for real-time price predictions.
 
 Table of Contents
