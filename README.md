@@ -1,4 +1,4 @@
-                                                                Bangalore Home Price Prediction
+                                                 Bangalore Home Price Prediction
 A comprehensive project to predict Bangalore home prices using machine learning. The project involves building a linear regression model with Scikit-learn, deploying it through a Flask server, and creating a user-friendly web interface for real-time price predictions.
 
 Table of Contents
@@ -49,7 +49,9 @@ Python 3.x
 Git
 
 Demo
-    
+   ![Screenshot 2024-10-07 121515](https://github.com/user-attachments/assets/af6a055d-c915-4638-ade4-e41adf7f1436)
+   ![Screenshot 2024-10-07 121552](https://github.com/user-attachments/assets/750862ee-b6a2-41b5-b44b-a2856230eca4)
+   ![Screenshot (934)](https://github.com/user-attachments/assets/f34ec762-2762-457b-8f83-d6a5a7d78070)
 
-Screenshot or GIF showcasing the web interface and prediction feature.
+
 
