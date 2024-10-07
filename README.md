@@ -51,7 +51,8 @@ Git
 Demo
    ![Screenshot 2024-10-07 121515](https://github.com/user-attachments/assets/af6a055d-c915-4638-ade4-e41adf7f1436)
    ![Screenshot 2024-10-07 121552](https://github.com/user-attachments/assets/750862ee-b6a2-41b5-b44b-a2856230eca4)
-   ![Screenshot (934)](https://github.com/user-attachments/assets/f34ec762-2762-457b-8f83-d6a5a7d78070)
+   ![Screenshot (934)](https://github.com/user-attachments/assets/ecbf6d9f-811d-415c-a9f0-3fe06d0749dd)
+
 
 
 
